@@ -1,0 +1,21 @@
+DangerType: None
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5773329
+WaveLength: 0.8273326
+WaveAmplitude: 0.2306213
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 4500
+EffectColorA: 19
+EffectColorB: 14
+Effects: LavaSurface-1-20-20, LethalWater-1-15.05939-84.07084, HeatWave-0.4741392-279.7219-18.61667, Toxic Brine Water-1-307.4687-130.3156, SilenceWater-1-291.8167-70.55313, 
+AmbientSounds: OMNI><RWTW_AmbFlowGentle.ogg><770.3268><395.0699><0.13><0.4153661, OMNI><AM_IND-Midsex01.ogg><786.656><159.9932><0.5><1, 

@@ -1,0 +1,2 @@
+Template: wasa_settingstemplate_inside
+PlacedObjects: LightSource><727.3807><218.8239><1~EffectColor1~0~100~50~86.60254~0~0~None~0~0, LightSource><487.1948><133.85><0.6906705~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><307.1959><557.8792><0.6906705~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><808.774><383.5719><0.6906705~EffectColor2~0~100~50~86.60254~0~0~None~0~0, 

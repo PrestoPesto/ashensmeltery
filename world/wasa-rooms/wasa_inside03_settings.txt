@@ -1,0 +1,15 @@
+Template: wasa_settingstemplate_lavainside
+EffectColorA: 19
+TerrainStainAmount: 0.9511878
+TerrainStainBrightness: 0.7397302
+TerrainStainHeight: 0.4639946
+TerrainWaves: 0.6650603
+TerrainGooHeight: 0.1184109
+TerrainGrain: 1
+TerrainDepth: 1.147919
+TerrainSkyFade: 0
+TerrainPalette: test_tar
+Effects: FairyParticles-0-29.28851-128.8927, 
+PlacedObjects: LightSource><725.0829><227.7273><0.3736068~EffectColor1~5.69165~68.69583~50~86.60254~0~1~None~0~0, LightSource><596.1251><203.4576><1~EffectColor1~14.22913~166.1655~50~86.60254~0~0~None~0~0, CustomDecal><382.3341><301.7218><-1.422852~165.9281~564.3448~146.7188~505.2939~-25.61255~-427.5865~-86.08649~0.3093298~1~0~greybones~0.2216034~1~0.2216034~1~0.2216034~1~0.2216034~1, LightSource><547.6688><564.9938><0.4973383~EffectColor1~-1.422943~126.3238~172.3708~-120.4318~0~0~None~0~0, LightSource><729.8021><562.8594><0.4973383~EffectColor1~-1.422943~126.3238~172.3708~-120.4318~0~0~None~0~0, LightSource><149.9622><145.4951><0.814402~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><863.5563><373.6115><0.814402~EffectColor2~0~100~50~86.60254~0~0~None~0~0, 
+AmbientSounds: SPOT><AM_IND-50hz.ogg><775.2888><342.0266><0.5><1><722.4066><223.9401><-92.27197><-16.85741><0><0.1773323, 
+FadePalette: 39, 0

@@ -1,0 +1,10 @@
+globalCreatureFlags: Ignorecycle
+overseersSpawnChance: 0
+overseersMin: 0
+overseersMax: 0
+playerGuideOverseerSpawnChance: 0
+boxWormColor: 0.68, 0.84, 0.38
+mudColor: 0.26, 0.23, 0.22
+hideTimer: true
+Subregion: Ashen Smeltery
+Room Setting Templates: LavaOutside, LavaInside, Outside, Inside

@@ -1,0 +1,7 @@
+[MERGE]
+[REFERENCE]WPTA_A01: -463.9904><-295.2654><-350.344><-168.5463><1><Signal Spires><48><37
+[IMAGE]map_wpta_ash
+WPTA_ASH01: -462><-472.5><72><-112.5><1><Signal Spires
+
+Connection: WPTA_A01,WPTA_ASH01,19,3,15,68,3,1
+[ENDMERGE]

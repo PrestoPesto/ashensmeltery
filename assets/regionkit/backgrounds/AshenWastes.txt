@@ -1,0 +1,35 @@
+PROTECTED
+Parent: none
+Type: RoofTopView
+OffsetX: 0
+OffsetY: 0
+---------------
+daySky: ashen_sky
+duskSky: ashen_sky
+nightSky: ashen_sky
+atmosphereColor: 000000
+duskAtmosphereColor: 000000
+nightAtmosphereColor: 000000
+duskMultiplyColor: FFFFFF
+nightMultiplyColor: FFFFFF
+rubbleCount: 0
+Floor: dark_floor, 0, 40, 1, 12
+
+FlyingCloud: 0, 75, 355, 0.35, 0.5, 0.9
+
+
+DistantBuilding: dark_rubble, 0, -100, 3, 0
+DistantBuilding: dark_rubble, 200, -200, 6, 0
+DistantBuilding: dark_rubble, -100, -100, 9, 0
+DistantBuilding: dark_rubble, -200, -100, 12, 0
+
+
+DistantBuilding: chimney, -520, -200, 10, 0 : scale|0.2
+DistantBuilding: chimney, 340, -200, 5, 0 : scale|0.3
+DistantBuilding: chimney, -300, -350, 7, 0 : scale|0.25
+DistantBuilding: chimney, 100, -310, 9, 0 : scale|0.25
+DistantBuilding: chimney, 600, -150, 2, 0 : scale|0.4
+DistantBuilding: chimney, -100, -260, 10, 0 : scale|0.2
+
+
+Smoke: 0, 586, 7, 2.5, 0.1, 0.8, False

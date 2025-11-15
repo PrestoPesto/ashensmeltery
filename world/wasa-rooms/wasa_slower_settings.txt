@@ -1,0 +1,6 @@
+Template: wasa_settingstemplate_lavainside
+EffectColorA: 19
+Effects: FairyParticles-0-12.925-127.4698, 
+PlacedObjects: LightSource><347.896><335.0783><0.3040082~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><246.1889><451.957><0.2808082~EffectColor1~-0.7114868~37.3916~50~86.60254~0~1~None~0~0, LightSource><305.7729><451.1604><0.180276~EffectColor1~-0.7114868~37.3916~50~86.60254~0~1~None~0~0, LightSource><347.0375><449.7375><0.180276~EffectColor1~-0.7114868~37.3916~50~86.60254~0~1~None~0~0, LightSource><188.3823><288.9479><0.180276~EffectColor1~-0.7114868~37.3916~50~86.60254~0~1~None~0~0, LightSource><246.7219><286.8135><0.180276~EffectColor1~-0.7114868~37.3916~50~86.60254~0~1~None~0~0, LightSource><216.8406><251.2407><0.4664048~EffectColor1~-108.8531~8.933258~50~86.60254~0~0~None~0~0, LightSource><581.1073><439.7771><0.4664048~EffectColor1~-150.8291~6.798889~50~86.60254~0~0~None~0~0, AdjustableFan><581.2788><441.6518><5~8.660254~0~0~1~0, 
+AmbientSounds: OMNI><RWTW_AmbFlowGentle.ogg><770.3268><395.0699><0.1442712><0.4710489, 
+FadePalette: 39, 0

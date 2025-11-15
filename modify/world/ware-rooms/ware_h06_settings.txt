@@ -1,0 +1,2 @@
+[FIND]PlacedWind><113.9136><506.0696><, FreeformDecalOrSprite><-116.9919><792.3002><, FreeformDecalOrSprite><464.02><90.30099><, 
+[REPLACE]
