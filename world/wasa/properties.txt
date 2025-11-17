@@ -1,3 +1,4 @@
+
 globalCreatureFlags: Ignorecycle
 overseersSpawnChance: 0
 overseersMin: 0
@@ -9,3 +10,40 @@ waterColorOverride: 1, 0.6, 0
 hideTimer: true
 Room Setting Templates: LavaOutside, LavaInside, Outside, Inside
 Subregion: Ashen Smeltery
+Room_Attr: WASA_INSIDE02: BigSpider-Like,
+Room_Attr: WASA_INSIDE01: DropBug-Like,
+Room_Attr: WASA_INSIDE05: BlueLizard-Like,
+Room_Attr: WASA_UNDER01: BlueLizard-Avoid,BlackLizard-Like,BigSpider-Avoid,
+Room_Attr: WASA_UNDER02: Centipede-Forbidden,BigSpider-Avoid,
+Room_Attr: WASA_UNDER03: BlackLizard-Like,Centipede-Avoid,BigSpider-Forbidden,
+Room_Attr: WASA_INSIDE08: BlackLizard-Avoid,Centipede-Like,
+Room_Attr: WASA_INSIDE07: BlueLizard-Like,BlackLizard-Avoid,
+Room_Attr: WASA_SLOWER: BlueLizard-Forbidden,DropBug-Forbidden,
+Room_Attr: WASA_INSIDE17: Centipede-Like,
+Room_Attr: WASA_INSIDE22: Centipede-Avoid,
+Room_Attr: WASA_SOVER: BlueLizard-Forbidden,BigSpider-Forbidden,
+Room_Attr: WASA_SUNDER: BlueLizard-Forbidden,BlackLizard-Forbidden,BigSpider-Forbidden,
+Room_Attr: WASA_WASTE01: BlueLizard-Forbidden,WhiteLizard-Forbidden,BlackLizard-Forbidden,CyanLizard-Forbidden,SmallCentipede-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,
+Room_Attr: WASA_WASTE02: BlueLizard-Forbidden,WhiteLizard-Forbidden,BlackLizard-Forbidden,CyanLizard-Forbidden,SmallCentipede-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,
+Room_Attr: WASA_CHIMNEY02: BlueLizard-Avoid,
+Room_Attr: WASA_OUTSIDE01: BlackLizard-Forbidden,Centipede-Avoid,
+Room_Attr: WASA_INSIDE06: BlackLizard-Avoid,
+Room_Attr: WASA_BRIDGE: BlueLizard-Avoid,WhiteLizard-Avoid,BlackLizard-Forbidden,BigSpider-Forbidden,
+Room_Attr: WASA_OVER01: WhiteLizard-Avoid,
+Room_Attr: WASA_OUTSIDE03: Centipede-Forbidden,
+Room_Attr: WASA_OVER03: BlueLizard-Forbidden,WhiteLizard-Avoid,Centipede-Forbidden,
+Room_Attr: WASA_STACKS: BlueLizard-Forbidden,WhiteLizard-Forbidden,BlackLizard-Forbidden,Centipede-Forbidden,BigSpider-Forbidden,
+Room_Attr: WASA_SHAFT: BlueLizard-Like,Centipede-Avoid,DropBug-Like,
+Room_Attr: WASA_DUCTS: BlueLizard-Forbidden,WhiteLizard-Forbidden,Centipede-Forbidden,BigSpider-Forbidden,DropBug-Forbidden,
+Room_Attr: WASA_VATS01: Centipede-Avoid,
+Room_Attr: WASA_VATS02: Centipede-Avoid,
+Room_Attr: WASA_VATS04: BlueLizard-Avoid,Centipede-Avoid,
+Room_Attr: WASA_SPIRES: BlueLizard-Forbidden,WhiteLizard-Forbidden,BlackLizard-Forbidden,CyanLizard-Forbidden,SmallCentipede-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,
+Room_Attr: WASA_OUTSIDE02: BlackLizard-Forbidden,Centipede-Avoid,
+Room_Attr: WASA_OVER02: Centipede-Avoid,
+Room_Attr: WASA_CHIMNEY03: BlueLizard-Forbidden,WhiteLizard-Forbidden,BlackLizard-Forbidden,CyanLizard-Forbidden,SmallCentipede-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,
+Room_Attr: WASA_INSIDE13: Centipede-Like,
+Room_Attr: WASA_INSIDE12: Centipede-Like,
+Room_Attr: WASA_INSIDE18: Centipede-Like,
+Room_Attr: WASA_STOP: BlueLizard-Forbidden,Centipede-Forbidden,BigSpider-Forbidden,
+Room_Attr: WASA_SCHIMNEY: BlueLizard-Forbidden,WhiteLizard-Forbidden,BlackLizard-Forbidden,CyanLizard-Forbidden,SmallCentipede-Forbidden,Centipede-Forbidden,RedCentipede-Forbidden,
